@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,order_status
+101,1,2025-09-05,Completed
+102,2,2025-09-10,Completed
+103,3,2025-09-18,Completed
+104,4,2025-10-02,Completed
+105,5,2025-10-11,Completed
+106,6,2025-10-20,Completed
+107,7,2025-11-07,Completed
+108,8,2025-11-12,Completed
+109,1,2025-12-03,Completed
+110,3,2025-12-19,Completed
