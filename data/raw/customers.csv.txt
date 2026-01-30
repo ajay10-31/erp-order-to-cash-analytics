@@ -1,0 +1,9 @@
+customer_id,customer_name,segment,region
+1,Northwind Traders,Mid-Market,North
+2,BluePeak Retail,SMB,East
+3,GreenField Logistics,Enterprise,South
+4,Skyline Health Supplies,Mid-Market,West
+5,Orchard & Co,SMB,North
+6,Sunset Manufacturing,Enterprise,East
+7,Riverstone Foods,Mid-Market,South
+8,MetroPrint Solutions,SMB,West
